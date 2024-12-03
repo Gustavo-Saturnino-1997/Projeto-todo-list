@@ -22,9 +22,9 @@ A To-Do List permite adicionar, marcar como concluída e remover tarefas de form
 - **JavaScript**: Lógica e interatividade.
 
 ## 📦 Como Usar
-1. Clone o repositório:
+- 1. Clone o repositório:
    git clone https://github.com/Gustavo-Saturnino-1997/Projeto-ToDoList.git
-2- Abra o arquivo index.html no seu navegador para testar localmente.
+- 2- Abra o arquivo index.html no seu navegador para testar localmente.
 
 ![Visualize o projeto](/img/img-projeto-todo-list.png)
 
