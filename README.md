@@ -28,7 +28,7 @@ A To-Do List permite adicionar, marcar como concluída e remover tarefas de form
  
 ##  🎥 Demonstração  
 -Confira o projeto em funcionamento clicando no link abaixo:  
--[🔗 Gerador de Histórias - Visualizar Projeto](https://gustavo-saturnino-1997.github.io/Projeto-todo-list/)
+-[🔗 To-do-List - Visualizar Projeto](https://gustavo-saturnino-1997.github.io/Projeto-todo-list/)
 
 ![Visualize o projeto](/img/img-projeto-todo-list.png)
 
