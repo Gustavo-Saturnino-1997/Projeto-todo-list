@@ -25,6 +25,10 @@ A To-Do List permite adicionar, marcar como concluída e remover tarefas de form
 - 1. Clone o repositório:
    git clone https://https://github.com/Gustavo-Saturnino-1997/Projeto-todo-list.git
 - 2. Abra o arquivo index.html no seu navegador para testar localmente.
+ 
+##  🎥 Demonstração  
+-Confira o projeto em funcionamento clicando no link abaixo:  
+-[🔗 Gerador de Histórias - Visualizar Projeto](https://gustavo-saturnino-1997.github.io/Projeto-todo-list/)
 
 ![Visualize o projeto](/img/img-projeto-todo-list.png)
 
