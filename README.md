@@ -12,7 +12,6 @@ A To-Do List permite adicionar, marcar como concluída e remover tarefas de form
 
 ## 🛠️ Funcionalidades
 - **Adicionar Tarefas**: Inclua novas tarefas na lista.
-- **Marcar como Concluída**: Indique quais tarefas já foram realizadas.
 - **Remover Tarefas**: Apague itens concluídos ou desnecessários.
 - **Interface Responsiva**: Compatível com diferentes tamanhos de tela.
 
